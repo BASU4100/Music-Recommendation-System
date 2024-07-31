@@ -13,12 +13,12 @@ Our model is trained to understand the intricate connections between songs and a
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#-features)
+- [Dataset](#-dataset)
+- [Model](#-model)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🌟 Features
 
